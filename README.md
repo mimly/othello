@@ -1,1 +1,3 @@
 # othello
+
+#### gradle runJ
